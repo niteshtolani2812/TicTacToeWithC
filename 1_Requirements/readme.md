@@ -15,7 +15,7 @@
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-<img src = "SWOT.jpg" alt="SWOT Analysis Diagram">
+![SWOT Analysis Diagram](SWOT.jpg)
 
 # 4W&#39;s and 1&#39;H
 
