@@ -15,7 +15,7 @@
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
- <img src = "https://drive.google.com/thumbnail?id=1eqaGIBPaf3BGS_Eih_-9tvKumeMe--xt">
+ <img src = "https://www.canva.com/design/DAEbJgmnZ1k/view">
 
 # 4W&#39;s and 1&#39;H
 
