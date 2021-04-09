@@ -15,7 +15,7 @@
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT}(https://drive.google.com/file/d/1eqaGIBPaf3BGS_Eih_-9tvKumeMe--xt/view?usp=sharing)
+![SWOT] (https://drive.google.com/file/d/1eqaGIBPaf3BGS_Eih_-9tvKumeMe--xt/view?usp=sharing)
 
 # 4W&#39;s and 1&#39;H
 
