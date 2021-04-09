@@ -12,32 +12,35 @@
  
  It uses minimal disk space and memory because it is a console application and can be run on any low end computer easily compared to other high end graphical games which require more memory and disk space.
 
+Easy to understand game interface and can be played by anyone.
+
+Cross Platform application that can be used on any operating system by building it according to the needs.
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT Analysis Diagram](SWOT.jpg)
+![SWOT](https://user-images.githubusercontent.com/54026778/114148218-2781c880-9937-11eb-9eca-7f6bae303199.jpg)
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-**TBD**
+This game can be designed for the user base who wants to play Tic-Tac-Toe without the clutter of Graphical user interfaces. 
 
 ## What:
 
-**TBD**
+This is a simple 3x3 board Tic-Tac-Toe game developed in C language for casual playing.
 
 ## When:
 
-**TBD**
+This project will be developed from 6 april to 15 April 2021.
 
 ## Where:
 
-**TBD**
+This project will take place virtually on GitHub and only developed by me
 
 ## How:
 
-**TBD**
+This project will use concepts of basic concepts of C programming language like Loops, If stataments and other advanced concepts like multifile approach, 2D arrays, functions with parameters and other basic input and output functions.
 
 # Detail requirements
 ## High Level Requirements:
