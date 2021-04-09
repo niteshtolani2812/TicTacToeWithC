@@ -15,7 +15,7 @@
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-<img src = "https://drive.google.com/thumbnail?id=1IHMG7RflMxi31-AA_rnXGOzUcdDAHnDc" alt="SWOT Analysis Diagram" width="200" height="200">
+<img src = "https://drive.google.com/thumbnail?id=1IHMG7RflMxi31-AA_rnXGOzUcdDAHnDc" alt="SWOT Analysis Diagram" width="400" height="400">
 
 # 4W&#39;s and 1&#39;H
 
