@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Tic Tac Toe
+PROJECT_NAME = Tic_Tac_Toe
 
 # Output directory
 BUILD = build
@@ -9,16 +9,19 @@ SRC = main.c\
 src/TicTacToeOperations.c
 
 # All test source files
-TEST_SRC = src/TicTacToeOperations.c
+TEST_SRC = src/calculator_operations.c\
+   test/test_calculator_operations.c\
+   unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
-INC	= -Iinc\
+INC	= -Iinc\ 
+  -Iunity\
 
 #Library Inlcudes
 #if working with CUnit 
-#INCLUDE_LIBS = -lcunit
+INCLUDE_LIBS = -lcunit
 INCLUDE_LIBS =
 
 # Project Output name
@@ -41,13 +44,15 @@ run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
 
 # Document the code using Doxygen
-#doc:
-#	make -C ./documentation
+doc:
+make -C ./documentation
+
 
 # Build and run the unit tests
 test:$(BUILD)
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
+
 #Coverage
 coverageCheck:$(BUILD)
 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
