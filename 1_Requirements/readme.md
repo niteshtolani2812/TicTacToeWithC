@@ -17,7 +17,10 @@ Easy to understand game interface and can be played by anyone.
 Cross Platform application that can be used on any operating system by building it according to the needs.
 ## Defining Our System
 Our system is a computer program to play a tic tac toe game designed using the C programming language. This Program uses different concepts of C programming like 2D arrays, functions, loops, and if statements. 
-The requirement and design of this program is done from scratch. It is tested using the unity test Framework designed for the C programming language. It is a cross-platform program that can be compiled and run on any operating system by compiling it on that operating system. It is designed by using multiple files so that process can be easily understood by anyone.
+
+The requirement and design of this program is done from scratch. It is tested using the unity test Framework designed for the C programming language. It is a cross-platform program that can be compiled and run on any operating system by compiling it on that operating system. 
+
+It is designed by using multiple files so that process can be easily understood by anyone.
 
 ## SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/54026778/114148218-2781c880-9937-11eb-9eca-7f6bae303199.jpg)
