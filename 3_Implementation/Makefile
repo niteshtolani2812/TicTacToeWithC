@@ -16,8 +16,8 @@ TEST_SRC = src/calculator_operations.c\
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
-INC	= -I inc\ 
-  -I unity\
+INC	= -Iinc\ 
+  -Iunity\
 
 #Library Inlcudes
 #if working with CUnit 
