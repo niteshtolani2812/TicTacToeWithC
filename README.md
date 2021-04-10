@@ -1,5 +1,5 @@
 # TicTacToeWithC
-This is my project for L&amp;T STEP IN program. 
+This is my project for L&amp;T STEP IN program. This Game desiged in C Programming Language using multifile approach. I have used the concepts of functions, 2D arrays and multifile approach.
 
 
 
