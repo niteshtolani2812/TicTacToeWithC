@@ -21,7 +21,13 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-258260 | Balkaran Singh  | Whole App    | 3     | 3   | 20   | 20     
+258260 | Balkaran Singh  | Whole App    | 5     | 3   | 20   | 20     
 ## Challenges Faced and How Was It Overcome
 
-1. Not able to run unity framework
+## 1. Unable to keep check on the input values:
+This was solved by having if statements on the range of values so that it does not go out of bounds of the game grid. Moreover, I have taken the benefit of the return value of scanf to ensure that 2 values are received by the program at each time when the user enters its choice for the move.
+
+## 2. Some problems in getting 'X' and 'O' on the grid
+First I have used simple integers in the game grid, but then I used 'X' and 'O' on the grid by making a function to get symbols by the corresponding player integer. This function helped to treat the grid as a 2D char array.
+
+
