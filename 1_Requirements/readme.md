@@ -49,9 +49,13 @@ This project will use concepts of basic concepts of C programming language like 
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
 
+| ID    	| Description                                                               	| Status      	|
+|-------	|---------------------------------------------------------------------------	|-------------	|
+| HL_01 	| Player should be able to see the status of grid after move                	| Implemented 	|
+| HL_02 	| Player should be able to make moves by giving input in form of row-column 	| Implemented 	|
+| HL_03 	| Player should be able to start new game after one ends                    	| Implemented 	|
+| HL_04 	| Player can play with the computer if he chooses to                        	| Future      	|
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
