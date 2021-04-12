@@ -50,14 +50,21 @@ This project will use concepts of basic concepts of C programming language like 
 # Detail requirements
 ## High Level Requirements:
 
-| ID    	| Description                                                               	| Status      	|
-|-------	|---------------------------------------------------------------------------	|-------------	|
-| HL_01 	| Player should be able to see the status of grid after move                	| Implemented 	|
+|   ID  	|                                Description                                	|    Status   	|
+|:-----:	|:-------------------------------------------------------------------------:	|:-----------:	|
+| HL_01 	|         Player should be able to see the status of grid after move        	| Implemented 	|
 | HL_02 	| Player should be able to make moves by giving input in form of row-column 	| Implemented 	|
-| HL_03 	| Player should be able to start new game after one ends                    	| Implemented 	|
-| HL_04 	| Player can play with the computer if he chooses to                        	| Future      	|
+| HL_03 	|           Player should be able to start new game after one ends          	| Implemented 	|
+| HL_04 	|             Player can play with the computer if he chooses to            	|    Future   	|
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+|   ID  	|                                    Description                                    	|    Status   	|
+|:-----:	|:---------------------------------------------------------------------------------:	|:-----------:	|
+| LL_01 	|                 Program should check if player one after each move                	| Implemented 	|
+| LL_02 	| Game should check for all conditions for a win that is columns,rows and diagonals 	| Implemented 	|
+| LL_03 	|  Game should if grid is full after each move, so that it can declare game as draw 	| Implemented 	|
+| LL_04 	|            Game should check if inputs of the user are in defined bound           	| Implemented 	|
+| LL_05 	|         Game should clear the grid and start a new game if user desires so        	| Implemented 	|
+| LL_06 	|                    Game should change the turn after each move                    	| Implemented 	|
 
