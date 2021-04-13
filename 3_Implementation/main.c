@@ -1,6 +1,6 @@
 // including both header and source file
 #include "TicTacToeOperations.h"
-#include "src/TicTacToeOperations.c"
+#include "TicTacToeOperations.c"
 
 // main function of the Application
 int main()
