@@ -21,3 +21,9 @@
 |  L_04       |Test **getSymbol** function for Player 2| 2 | O | O |Scenario based    |
 |  L_05       |Test **isGridFull** function when grid is full| [O O X,X X X,O O X]| 1 | 1 |Scenario Based |
 |  L_06       |Test **isGridFull** function when grid is full| [- O X,X - X,O - X]| 0 | 0 |Scenario Based |
+
+
+# Test Cases Output:
+
+![Test Cases Output](https://user-images.githubusercontent.com/54026778/114516401-fec14200-9c5a-11eb-93be-a4cb982d8bcc.jpg)
+
