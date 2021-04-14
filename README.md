@@ -16,12 +16,15 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
+`5_Documentation`  | Documentation generated on my local machine 
+`6_Build`          | Build files which was created on my local machine
+`7_Screenshots and Videos`| Screenshots and videos of the working project
 
 ## Contributors List and Summary
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-258260 | Balkaran Singh  | Whole App    | 5     | 3   | 20   | 20     
+258260 | Balkaran Singh  | Whole App    | 6     | 5   | 20   | 20     
 ## Challenges Faced and How Was It Overcome
 
 ## 1. Unable to keep check on the input values:
@@ -30,4 +33,5 @@ This was solved by having if statements on the range of values so that it does n
 ## 2. Some problems in getting 'X' and 'O' on the grid
 First I have used simple integers in the game grid, but then I used 'X' and 'O' on the grid by making a function to get symbols by the corresponding player integer. This function helped to treat the grid as a 2D char array.
 
-
+## 3. Was not able to get Unity testing action working
+I changed my test.c file so that each grid I'm passing to the test functions is first defined and then passed rather than just passing as a literal array. This made all my test cases pass.
