@@ -16,3 +16,9 @@
   ## Low Level Use Case Diagram
   The below use case diagram shows the actions which a user can perform. The user can start the game. make his moves, start a new game when the previous one ends, and exit the game if he desires.
   ![Low Level Use Case Diagram](https://user-images.githubusercontent.com/54026778/114353219-6491c900-9b8a-11eb-9fa8-ada03193bd8c.png)
+  
+  ## Low level Interaction Diagram
+  This is an interaction diagram of my project. It represents how each of the entity interacts with each other.
+  
+  ![Low level Interaction Diagram](https://user-images.githubusercontent.com/54026778/114707193-8e441f00-9d47-11eb-9f57-a113b8c18183.png)
+
