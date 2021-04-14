@@ -24,7 +24,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-258260 | Balkaran Singh  | Whole App    | 6     | 5   | 20   | 20     
+258260 | Balkaran Singh  | Whole App    | 7     | 5   | 20   | 20     
+
 ## Challenges Faced and How Was It Overcome
 
 ## 1. Unable to keep check on the input values:
