@@ -1,4 +1,4 @@
-## Names and description of the screenshot and video
+## Names and description of the screenshots and video
 
 |            File name  	|                                      Description                 	|
 |:---------------------:	|:----------------------------------------------------------------:	|
