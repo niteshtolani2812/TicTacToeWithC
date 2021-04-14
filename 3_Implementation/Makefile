@@ -5,8 +5,8 @@ PROJECT_NAME = Tic_Tac_Toe
 BUILD = build
 
 # All source code files
-SRC = src/TicTacToeOperations.c\
-main.c\
+SRC = main.c\
+src/TicTacToeOperations.c
 
 
 # All test source files
