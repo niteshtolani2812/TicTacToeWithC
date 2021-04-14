@@ -3,4 +3,4 @@ This is a build folder. It contains build files of both Linux and Windows that h
 |          File name         	|                      Description                     	|
 |:--------------------------:	|:----------------------------------------------------:	|
 |        TicTacToe.exe       	| Build File created on windows OS with .exe extension 	|
-|          TicTacToe         	|              Build file created on Linux             	|
+|          TicTacToe.out      |        Build file created on Linux with .out extension|             	|
