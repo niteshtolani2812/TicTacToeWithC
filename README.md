@@ -36,3 +36,6 @@ First I have used simple integers in the game grid, but then I used 'X' and 'O' 
 
 ## 3. Was not able to get Unity testing action working
 I changed my test.c file so that each grid I'm passing to the test functions is first defined and then passed rather than just passing as a literal array. This made all my test cases pass.
+
+## 4. Was not able to get C/C++ Build Status Working
+This error was because of an error in the filename that i was including in my main file which was different from the real name was. There was another error that I was including .c file of operations rather than the .h header file which was supposed to be included in our program.
