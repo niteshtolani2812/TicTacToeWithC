@@ -24,7 +24,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-258260 | Balkaran Singh  | Whole App    | 7     | 5   | 20   | 20     
+258260 | Balkaran Singh  | Whole App    | 7     | 5   | 6   | 6     
 
 ## Challenges Faced and How Was It Overcome
 
