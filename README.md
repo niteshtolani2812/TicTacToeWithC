@@ -9,7 +9,9 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 [![C/C++ CI](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/unity.yml/badge.svg)](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/bmaan99/TicTacToeWithC/actions/workflows/gitinspector.yml)
 
 
-## Folder Structure|           Folder           	|                    Description                    	|
+## Folder Structure
+
+|           Folder           	|                    Description                    	|
 |:--------------------------:	|:-------------------------------------------------:	|
 |      `1_Requirements`      	|   Documents detailing requirements and research   	|
 |         `2_Design`         	|        Documents specifying design details        	|
@@ -17,7 +19,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |        `4_Test_plan`       	|      Documents with test plans and procedures     	|
 |      `5_Documentation`     	|    Documentation generated on my local machine    	|
 |          `6_Build`         	| Build files which was created on my local machine 	|
-| `7_Screenshots and Videos` 	|   Screenshots and videos of the working project   	|
+| `7_Screenshots_and_Videos` 	|   Screenshots and videos of the working project   	|
 ## Contributors List and Summary
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
