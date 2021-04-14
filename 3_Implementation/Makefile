@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/TicTacToeOperations.c
+src/TicTacToeOperations.c\
 
 # All test source files
 TEST_SRC = src/TicTacToeOperations.c\
