@@ -17,9 +17,8 @@ This is my project for L&amp;T STEP IN program. This Game desiged in C Programmi
 |         `2_Design`         	|        Documents specifying design details        	|
 |     `3_Implementation`     	|             All code and documentation            	|
 |        `4_Test_plan`       	|      Documents with test plans and procedures     	|
-|      `5_Documentation`     	|    Documentation generated on my local machine    	|
-|          `6_Build`         	| Build files which was created on my local machine 	|
-| `7_Screenshots_and_Videos` 	|   Screenshots and videos of the working project   	|
+|          `5_Build`         	| Build files which was created on my local machine 	|
+| `6_Screenshots_and_Videos` 	|   Screenshots and videos of the working project   	|
 ## Contributors List and Summary
 
 | PS No. 	|      Name      	|  Features 	| Issuess Raised 	| Issues Resolved 	| No Test Cases 	| Test Case Pass 	|
