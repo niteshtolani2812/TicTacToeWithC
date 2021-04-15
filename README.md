@@ -22,9 +22,9 @@ This is my project for L&amp;T STEP IN program. This Game desiged in C Programmi
 | `7_Screenshots_and_Videos` 	|   Screenshots and videos of the working project   	|
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-258260 | Balkaran Singh  | Whole App    | 7     | 5   | 6   | 6     
+| PS No. 	|      Name      	|  Features 	| Issuess Raised 	| Issues Resolved 	| No Test Cases 	| Test Case Pass 	|
+|:------:	|:--------------:	|:---------:	|:--------------:	|:---------------:	|:-------------:	|:--------------:	|
+| 258260 	| Balkaran Singh 	| Whole App 	|        7       	|        6        	|       6       	|        6       	|
 
 ## Challenges Faced and How Was It Overcome
 
