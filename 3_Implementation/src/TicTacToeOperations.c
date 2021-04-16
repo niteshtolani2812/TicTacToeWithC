@@ -12,13 +12,11 @@
 	
 int checkRows(char grid[3][3],int playerInteger)
 {
-	int numberOfOccurences;
-
 	char sym = getSymbol(playerInteger);
 
 	for(int i=0;i<3;i++)
 	{
-		numberOfOccurences=0;
+		int numberOfOccurences = 0;
 
 		// loops to check if one row has three symbols of same type
 		for(int j=0;j<3;j++)
@@ -52,13 +50,13 @@ int checkRows(char grid[3][3],int playerInteger)
 
 int checkColumns(char grid[3][3],int playerInteger)
 {
-	int numberOfOccurences;
+	//int numberOfOccurences;
 
 	char sym = getSymbol(playerInteger);
 
 	for(int i=0;i<3;i++)
 	{
-		numberOfOccurences=0;
+		int numberOfOccurences = 0;
 		for(int j=0;j<3;j++)
 		{
 			if(grid[j][i]==sym)
