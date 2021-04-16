@@ -27,28 +27,28 @@ It is designed by using multiple files so that process can be easily understood 
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
 
 This game can be designed for the user base who wants to play Tic-Tac-Toe without the clutter of Graphical user interfaces. 
 
-## What:
+## What
 
 This is a simple 3x3 board Tic-Tac-Toe game developed in C language for casual playing.
 
-## When:
+## When
 
 This project will be developed from 6 april to 15 April 2021.
 
-## Where:
+## Where
 
 This project will take place virtually on GitHub and only developed by me
 
-## How:
+## How
 
 This project will use concepts of basic concepts of C programming language like Loops, If stataments and other advanced concepts like multifile approach, 2D arrays, functions with parameters and other basic input and output functions.
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 
 |   ID  	|                                Description                                	|    Status   	|
 |:-----:	|:-------------------------------------------------------------------------:	|:-----------:	|
@@ -57,7 +57,7 @@ This project will use concepts of basic concepts of C programming language like 
 | HL_03 	|           Player should be able to start new game after one ends          	| Implemented 	|
 | HL_04 	|             Player can play with the computer if he chooses to            	|    Future   	|
 
-##  Low level Requirements:
+##  Low level Requirements
 
 |   ID  	|                                    Description                                    	|    Status   	|
 |:-----:	|:---------------------------------------------------------------------------------:	|:-----------:	|
