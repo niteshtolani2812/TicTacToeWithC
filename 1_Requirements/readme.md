@@ -47,7 +47,6 @@ This project will take place virtually on GitHub and only developed by me
 
 This project will use concepts of basic concepts of C programming language like Loops, If stataments and other advanced concepts like multifile approach, 2D arrays, functions with parameters and other basic input and output functions.
 
-# Detail requirements
 ## High Level Requirements
 
 |   ID  	|                                Description                                	|    Status   	|
@@ -67,4 +66,3 @@ This project will use concepts of basic concepts of C programming language like 
 | LL_04 	|            Game should check if inputs of the user are in defined bound           	| Implemented 	|
 | LL_05 	|         Game should clear the grid and start a new game if user desires so        	| Implemented 	|
 | LL_06 	|                    Game should change the turn after each move                    	| Implemented 	|
-
